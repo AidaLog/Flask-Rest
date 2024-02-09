@@ -24,11 +24,10 @@ To run the Flask-Rest project:
 
 This is a template repository, so you can use it as a starting point for your own projects. You can modify the project structure, add new features, and customize the code to suit your needs.
 clone the repository and start building your own RESTful web services.
-
-```bash
-git clone https://github.com/Aida-LLC/Flask-Rest.git
-cd flask-rest
-pip install -r requirements.txt
+```
+on top right corner of the page, 
+click on the "Use this template" button to create a new repository 
+with the same directory structure and files.
 ```
 
 The development server will start, and you can access the app at [http://127.0.0.1:5000](http://127.0.0.1:5000).
